@@ -1,18 +1,25 @@
-# 👋 Fala aí! Bem-vindo(a)!
+Olá. Aqui você encontra meus projetos, estudos de arquitetura e soluções em backend.
 
-Sou desenvolvedor backend, focado principalmente em Java e Kotlin.
+Sou desenvolvedor backend com foco em escalabilidade, resiliência e automação. Atuo no design de arquiteturas distribuídas, construção de microsserviços com o ecossistema **Spring (Java/Kotlin)** e implementação de pipelines de CI/CD.
 
-Tenho experiência criando APIs REST com Spring Boot, trabalhando com bancos de dados (PostgreSQL, MySQL, MongoDB) e construindo pipelines de CI/CD. Também valorizo boas práticas de testes e versionamento com Git.
+### 🛠 Tech Stack & Core Skills
 
-Gosto de desenvolver soluções simples, diretas e que realmente resolvam problemas.
+* **Backend & Frameworks:** Java, Kotlin, Spring Boot, Spring Cloud, Python.
+* **Messaging & Event-Driven:** Apache Kafka, RabbitMQ.
+* **Databases:** Oracle, SQL Server, PostgreSQL, MySQL, MongoDB, Redis.
+* **Cloud & DevOps:** Kubernetes, Docker Swarm, Jenkins.
+* **Principles:** Clean Code, SOLID, Design Patterns, TDD.
 
-Além do que já trabalho, estou sempre experimentando novas tecnologias.
+### 📈 Foco de Atuação
 
-Se quiser trocar uma ideia sobre tecnologia, projetos ou experiências, fique à vontade para me chamar!
+* **Arquitetura de Microsserviços:** Construção de APIs REST, sistemas orientados a eventos e integração de serviços.
+* **Infraestrutura e Deploy:** Configuração de ambientes e pipelines de entrega contínua.
+* **Engenharia de Software:** Entrega de código testável, manutenível e focado na resolução de problemas.
 
 ---
 
-## 📫 Vamos conversar?
+### 🌐 Contato e Links
 
-- [LinkedIn](https://www.linkedin.com/in/devhigo/)
-- Email: contato@higodev.com
+* **Site:** [higodev.com](https://higodev.com/)
+* **LinkedIn:** [in/devhigo](https://www.linkedin.com/in/devhigo/)
+* **Email:** [contato@higodev.com](mailto:contato@higodev.com)
