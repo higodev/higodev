@@ -4,7 +4,7 @@ Sou desenvolvedor backend com foco em escalabilidade, resiliência e automação
 
 ### 🛠 Tech Stack & Core Skills
 
-* **Backend & Frameworks:** Java, Kotlin, Spring Boot, Spring Cloud, Python.
+* **Backend & Frameworks:** Java, Kotlin, Spring Boot, Spring Cloud, Go, Python.
 * **Messaging & Event-Driven:** Apache Kafka, RabbitMQ.
 * **Databases:** Oracle, SQL Server, PostgreSQL, MySQL, MongoDB, Redis.
 * **Cloud & DevOps:** Kubernetes, Docker Swarm, Jenkins.
